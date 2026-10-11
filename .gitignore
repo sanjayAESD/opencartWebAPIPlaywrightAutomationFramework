@@ -10,8 +10,9 @@ node_modules/
 /reporting-labs/
 /allure-report/
 /allure-results/
-allure-report/
-allure-resuls/
+# allure-report/
+# allure-resuls/
+reporting-labs.history.json
 
 
 # env files (confidentials) :
